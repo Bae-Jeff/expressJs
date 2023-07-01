@@ -14,7 +14,7 @@ global.db = Mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password: 'root',
-  database: 'db_goguma'
+  database: 'db_guma'
 });
 /** 데이나 베이스 설정 끝*/
 
